@@ -27,13 +27,19 @@ Power BI for visualization
 - Movies vs. TV Shows – Proportion of different content types
 - Content Growth Trend – Analysis of title releases over decades
 
-  # Pie Chart for Type Distribution
+  # Donut Chart for Type Distribution
 
-![pic2](https://github.com/mona-lisa22/NetFlix-data-analysis-using-Tableau/blob/3c0be88d4c2815c4de5aeb6b3e62f5ea05d97dd6/Sheet3.png)
+![pic2](https://github.com/mona-lisa22/Prime-Video-Analysis-using-PowerBI/blob/main/Sheet1.png )
 
 
 
-# Pie Chart for Type Distribution
+# Ribbon Chart for Rating of Total Shows
 
-![pic2](https://github.com/mona-lisa22/NetFlix-data-analysis-using-Tableau/blob/3c0be88d4c2815c4de5aeb6b3e62f5ea05d97dd6/Sheet3.png)
+![pic2](https://github.com/mona-lisa22/Prime-Video-Analysis-using-PowerBI/blob/main/Sheet2.png )
+
+
+# Overall Dashboard
+
+![pic3](https://github.com/mona-lisa22/Prime-Video-Analysis-using-PowerBI/blob/main/DashBoard.png )
+
 
